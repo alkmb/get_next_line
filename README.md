@@ -1,4 +1,4 @@
-# Custom Get Next Line (GNL) Project
+# Get Next Line (GNL) Project
 - Overview:
 This project focuses on creating a simple and efficient utility, Get Next Line (GNL), designed to read and store lines from a file into a buffer in C. The primary objective is to gain proficiency in memory allocation, freeing, and avoiding memory leaks while providing a flexible and reliable solution for handling file input.
 
